@@ -1,4 +1,4 @@
-coveralls
+python-coveralls
 pytest-flake8
 flake8
 tox
