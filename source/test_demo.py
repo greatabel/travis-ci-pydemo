@@ -1,11 +1,4 @@
-def suma(x, y):
-    z = x + y
-    return z
-
-
-def mulb(x, y):
-    z = x * y
-    return z
+from demo import suma, mulb
 
 
 def test_suma():
